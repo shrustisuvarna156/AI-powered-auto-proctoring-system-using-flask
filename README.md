@@ -1,8 +1,5 @@
 # MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM
 
-# YOUTUBE LINK OF THE PROJECT:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E117db5VsTs/0.jpg)](https://youtu.be/E117db5VsTs)
-
 https://youtu.be/E117db5VsTs
 
 # MODEL LINK YOLO V3:
