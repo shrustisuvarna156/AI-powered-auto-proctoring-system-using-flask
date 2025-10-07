@@ -1,7 +1,5 @@
 # MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM
 
-https://youtu.be/E117db5VsTs
-
 # MODEL LINK YOLO V3:
 https://pjreddie.com/media/files/yolov3.weights
 
